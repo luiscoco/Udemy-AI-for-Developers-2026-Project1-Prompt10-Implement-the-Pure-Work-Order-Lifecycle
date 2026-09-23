@@ -1,4 +1,4 @@
-# Prompt 10 Implement the Pure Work-Order Lifecycle
+# Implement the Pure Work-Order Lifecycle
 
 This README walks through the steps taken to complete the latest prompt, so students can
 follow the reasoning and reproduce it themselves.
